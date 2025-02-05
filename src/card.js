@@ -60,7 +60,7 @@ export class MermaidCard extends LitElement {
 
   static getStubConfig() {
     return {
-      header: "Meraid",
+      header: "Mermaid",
       mermaid: "graph\nA-->B"
     };
   }
